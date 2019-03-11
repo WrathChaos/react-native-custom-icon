@@ -37,6 +37,8 @@ npm i react-native-custom-icon
 ```ruby
 import MyIcon from "react-native-custom-icon";
 import IcomoonConfig from "./assets/icomoon/selection.json";
+
+
 <MyIcon name="fireworks" color="red" size={50} config={IcomoonConfig} />
 ```
 
