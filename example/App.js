@@ -12,9 +12,9 @@ import { human, iOSColors, iOSUIKit } from "react-native-typography";
 
 const title = "Welcome to \n" + "React Native Custom Icon!";
 const content =
-  "React Native Custom Icon is a library which making easier to use your own custom icons as font.\n" +
+  "React Native Custom Icon is a library which makes easier to use your own fonts as custom icons.\n" +
   "It uses react-native-vector-icons library as peer dependency and you need to use Icomoon to \n";
-+"create your own icons as .ttf font format. ";
++"create your own icons as .ttf font format.";
 
 const instructions =
   "Detailed information is on Medium blog\n" + "to get started: ";
