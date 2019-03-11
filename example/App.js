@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
-import MyIcon from "./lib/src/components/MyIcon";
+import MyIcon from "react-native-custom-icon";
 import IcomoonConfig from "./assets/icomoon/selection.json";
 
 const instructions = Platform.select({
@@ -17,12 +17,7 @@ export default class App extends Component {
         <Text style={styles.welcome}>Welcome to React Native!</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Text style={styles.instructions}>{instructions}</Text>
-        <MyIcon
-          name="fireworks"
-          color="#955341"
-          size={50}
-          config={IcomoonConfig}
-        />
+        <MyIcon name="fireworks" color="red" size={50} config={IcomoonConfig} />
       </View>
     );
   }
