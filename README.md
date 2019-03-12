@@ -43,9 +43,15 @@ import IcomoonConfig from "./assets/icomoon/selection.json";
 ```
 
 ## Documentation
+Read how to use react-native-custom-icon on Medium blog. DO NOT FORGET to implement your .ttf file on iOS and Android original files!
 
-<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Monogram.png" width="1050"/>
-<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Wordmark_Black.png" width="1050"/>
+<a href="Medium Article: https://freakycoder.com/react-native-library-react-native-custom-icon-1ec0b734d691">>
+<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Monogram.png" width="390" height="390"/>
+</a>
+
+<a href="Medium Article: https://freakycoder.com/react-native-library-react-native-custom-icon-1ec0b734d691">>
+<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Wordmark_Black.png" width="390" height="85"/>
+</a>
 
 
 
