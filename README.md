@@ -2,8 +2,8 @@
 
 Custom Icon Lib for React Native.
 
-[![npm version](https://img.shields.io/npm/v/@freakycoder/react-native-custom-icon.svg)](https://www.npmjs.com/package/@freakycoder/react-native-custom-icon)
-[![npm](https://img.shields.io/npm/dt/@freakycoder/react-native-custom-icon.svg)](https://www.npmjs.org/package/@freakycoder/react-native-custom-icon)
+[![npm version](https://img.shields.io/npm/v/react-native-custom-icon.svg)](https://www.npmjs.com/package/react-native-custom-icon)
+[![npm](https://img.shields.io/npm/dt/react-native-custom-icon.svg)](https://www.npmjs.org/package/react-native-custom-icon)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -42,6 +42,13 @@ import IcomoonConfig from "./assets/icomoon/selection.json";
 <MyIcon name="fireworks" color="red" size={50} config={IcomoonConfig} />
 ```
 
+## Documentation
+
+<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Monogram.png" width="1050"/>
+<img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/Wordmark_Black.png" width="1050"/>
+
+
+
 ### Configuration - Props
 
 
@@ -51,21 +58,6 @@ import IcomoonConfig from "./assets/icomoon/selection.json";
 | color    | color  |  null   | use this to set icon's color                                        |
 | size     | number |   16    | use this to change icon's size                                      |
 | config   |  JSON  |  null   | must use this to provide which config and data to use as IconConfig |
-
-# Change Log
-<a name="unreleased"></a>
-
-## [Unreleased]
-
-<a name="0.0.3"></a>
-
-## 0.0.3 - 2019-03-11
-
-### Example
-
-- Android is working now
-
-[Released]: https://github.com/WrathChaos/react-native-custom-icon/compare/0.0.3...HEAD
 
 
 ## Author
