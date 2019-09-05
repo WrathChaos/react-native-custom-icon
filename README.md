@@ -6,7 +6,7 @@ Custom Icon Lib for React Native.
 [![npm](https://img.shields.io/npm/dt/react-native-custom-icon.svg)](https://www.npmjs.org/package/react-native-custom-icon)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/WrathChaos/react-native-custom-icon.svg)](https://greenkeeper.io/)
 
 <p align="center">
 <img alt="React Native Custom Icon" src="https://github.com/WrathChaos/react-native-custom-icon/blob/master/assets/Screenshots/example.png" width="49.7%"/>
